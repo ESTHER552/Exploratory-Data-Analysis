@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Age,Gender,Country,Purchase_Amount,Payment_Method,Join_Date,Feedback,Repeat_Customer
+CUST001,jane smith,30,FEMALE,nigeria,500,,08/05/2023,excellent,Yes
+,mary,40,female,India,200,,2025-01-15,excellent,Y
+CUST003,bob Brown,,,nigeria,200,Credit Card,,excellent,N
+CUST004,John Doe,30,Male,USA,400,Credit Card,,,Yes
+,jane smith,30,FEMALE,nigeria,200,cash,,excellent,Yes
+,bob Brown,40,,USA,200,,,average,N
+,,50,Male,,300,,,bad,
+CUST008,mary,25,,,200,debit card,,average,Yes
+,mary,50,FEMALE,,100,,29/02/2024,average,No
+,mary,50,female,nigeria,500,Credit Card,2021-06-10,bad,N
+,bob Brown,25,,uk,Three Hundred,,,Good,Y
+CUST012,,50,,nigeria,500,Credit Card,20/08/2024,average,Yes
+CUST013,bob Brown,45,,India,400,cash,2021-09-06,,No
+CUST014,Alice Johnson,50,,India,400,Credit Card,,,
+CUST015,,45,,,400,cash,,,No
+CUST016,bob Brown,30,FEMALE,India,100,,,excellent,
+,mary,40,FEMALE,nigeria,200,paypal,,,
+,Alice Johnson,30,Male,nigeria,400,cash,2021-04-21,excellent,N
+,bob Brown,,male,,300,,,average,Yes
+CUST020,Alice Johnson,,,India,200,cash,,,
+,Alice Johnson,45,FEMALE,India,200,,12/12/2023,,Y
+,John Doe,30,FEMALE,,500,Credit Card,,excellent,Y
+CUST023,mary,50,female,,500,cash,,excellent,No
+,John Doe,,Male,India,100,paypal,,excellent,
+,,twenty,male,,,Credit Card,07/08/2021,,No
+,,30,FEMALE,uk,100,,12/03/2024,excellent,N
+CUST027,John Doe,50,female,,500,,,bad,No
+CUST028,jane smith,30,Male,nigeria,300,cash,22/12/2023,,
+CUST029,bob Brown,,,,300,paypal,,bad,Yes
+,,twenty,female,,,paypal,,bad,Yes
+,jane smith,30,,uk,Three Hundred,paypal,,excellent,No
+CUST032,mary,,,USA,100,,2021-09-05,excellent,
+,jane smith,30,male,,200,paypal,2022-10-22,bad,Yes
+CUST034,Alice Johnson,25,,,Three Hundred,,,,No
+,bob Brown,twenty,,,100,cash,2021-01-12,Good,
+,bob Brown,,,,500,Credit Card,,,N
+,Alice Johnson,twenty,male,USA,Three Hundred,,2022-04-05,bad,
+CUST038,,25,female,uk,100,cash,,,
+CUST039,Alice Johnson,,FEMALE,,200,Credit Card,02/04/2023,,No
+CUST040,John Doe,twenty,Male,USA,200,,,excellent,
+,mary,35,,uk,300,debit card,2022-10-17,Good,
+,bob Brown,twenty,female,nigeria,300,,,bad,Y
+CUST043,mary,25,FEMALE,India,Three Hundred,,29/10/2020,,No
+,jane smith,40,,nigeria,400,,,Good,Y
+,jane smith,25,FEMALE,,,,2025-10-21,bad,N
+,,40,male,India,200,cash,2020-06-21,excellent,No
+,Alice Johnson,twenty,Male,uk,400,cash,,bad,No
+,bob Brown,,,India,300,,2024-03-10,bad,No
+CUST049,bob Brown,45,Male,,200,cash,,,
+,Alice Johnson,25,,USA,,debit card,10/10/2024,bad,N
